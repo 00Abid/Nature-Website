@@ -1,0 +1,142 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 1rem;
+  font-family: cursive;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+
+.img1 {
+  background-image: url("dd.jpg");
+  min-height: 100%;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.img2 {
+  background-image: url("ee.jpg");
+  min-height: 80%;
+}
+
+.img3 {
+  background-image: url("ff.jpg");
+  min-height: 80%;
+}
+
+.img4 {
+  background-image: url("gg.jpg");
+  min-height: 100%;
+}
+
+.img1,
+.img2,
+.img3,
+.img4 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.text1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 1.875rem;
+  text-transform: uppercase;
+  word-spacing: 8px;
+}
+
+.textbg {
+  background: #313534;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.img1text {
+  padding: 50px 80px;
+  text-align: center justify;
+  background-color: #222529;
+  color: #ddd;
+}
+
+.text2 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 1.875rem;
+  text-transform: uppercase;
+  word-spacing: 8px;
+}
+
+.textbg2 {
+  background: #313534;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.img2text {
+  padding: 50px 80px;
+  text-align: center justify;
+  background-color: #222529;
+  color: #ddd;
+}
+
+.text3 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 1.875rem;
+  text-transform: uppercase;
+  word-spacing: 8px;
+}
+
+.textbg3 {
+  background: #313534;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.img3text {
+  padding: 50px 80px;
+  text-align: center justify;
+  background-color: #222529;
+  color: #ddd;
+}
+
+.text4 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 1.875rem;
+  text-transform: uppercase;
+  word-spacing: 8px;
+}
+
+.textbg4 {
+  background: #313534;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.heading {
+  text-align: center;
+}
